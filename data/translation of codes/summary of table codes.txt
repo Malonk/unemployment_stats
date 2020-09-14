@@ -1,0 +1,30 @@
+LFSA_PGANWS	Population by sex, age, citizenship and labour status (1 000)
+
+TEILM010	Harmonised unemployment by sex
+TEILM011	Harmonised unemployment by sex - age group 15-24
+TEILM012	Harmonised unemployment by sex - age group 25-74
+TEILM020	Harmonised unemployment rate by sex
+TEILM021	Harmonised unemployment rate by sex - age group 15-24
+TEILM022	Harmonised unemployment rate by sex - age group 25-74
+
+TEPSR_WC120	Employment rate by educational attainment level
+
+TGS00007	Employment rate of the age group 15-64 by NUTS 2 regions
+TGS00010	Unemployment rate by NUTS 2 regions
+
+TGS00053	Long-term unemployment rate (12 months and more) by NUTS 2 regions
+
+TGS00102	Employment rate of the age group 20-64 by NUTS 2 regions
+
+TPS00066	Unemployment rates of the population aged 25-64 by educational attainment level
+TPS00070	Hours worked per week of part-time employment
+TPS00071	Hours worked per week of full-time employment
+TPS00073	Employees with a contract of limited duration (annual average)
+TPS00074	Employed persons with a second job
+
+TPS00159	Persons employed part-time - Total
+
+TPS00181	Jobless households - children
+TPS00182	Jobless households by sex
+
+TPS00203	Total unemployment rate
