@@ -4,7 +4,7 @@
 
 Analysis of unemployment statistics in Europe
 <br>Ironhack Berlin week 6 project
-<br>Julia Zimkus, Malon Kraaijvanger, Sunday Oluwadare & Rinze Douma
+<br>Julia Zimpel, Malon Kraaijvanger, Sunday Oluwadare & Rinze Douma
 <br>18/09/2020
 
 ## Content
