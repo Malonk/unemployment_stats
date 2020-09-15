@@ -25,6 +25,10 @@ Analysis of unemployment statistics in Europe
 - Cleaning columns in tables
 - Codes used in dataset
 
+## Assumptions
+- Fraction of male / female of total unemployed
+- Some data concerns employment. For ease this has been translated as unemployed = 100% - % employed.
+
 ## Organization
 
 #### Data
