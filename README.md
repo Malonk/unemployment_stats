@@ -16,8 +16,8 @@ Analysis of unemployment statistics in Europe
 ## Project description
 
 ### Research question
-Our research question is 'What factors impact the unemployment rate of EU28?' 
-Here we are looking at the EU28 countries and compare it to Greece, who was hit hard by the financial crisis, and Germany, who's economy stayed fairly stable. 
+**Our research question is 'What factors impact the unemployment rate of EU28?'**
+<br>Here we are looking at the EU28 countries and compare it to Greece, who was hit hard by the financial crisis, and Germany, who's economy stayed fairly stable. 
 
 ### Hypotheses
 With the research question in mind, we are assuming various outcomes:
@@ -36,35 +36,41 @@ With the research question in mind, we are assuming various outcomes:
 
 
 ## Workflow
-1. First research questions and potential hypotheses on unemployment were gathered. |
-2. Then, general unemployment data for EU28 from Eurostats was cleaned for initial evaluation of the potential hypotheses. |
-3. During cleaning it became transparent which additional data was needed for the hypotheses. For instance, other datasets on gender and GINI from Eurostats as well as on GDP from the OECD were obtained. |
-4. The datasets were cleaned, and correlations analyzed. |
-5. The data was then visualized for easier interpretation.| 
+1. First research questions and potential hypotheses on unemployment were gathered. 
+2. Then, general unemployment data for EU28 from Eurostats was cleaned for initial evaluation of the potential hypotheses. 
+3. During cleaning it became transparent which additional data was needed for the hypotheses. For instance, other datasets on gender and GINI from Eurostats as well as on GDP from the OECD were obtained. 
+4. The datasets were cleaned, and correlations analyzed. 
+5. The data was then visualized for easier interpretation.
 
 
 ## Issues
 - Selecting data in huge dataset
 - Cleaning columns in tables, complex dataset
-- Codes used in dataset
+- Complex codes used in dataset
 - Mainly percentage data
 - Short time period (2008-2019)
 - Only yearly data available, not more granular 
-- Some datasets use 
+- Some datasets use whole population, instead of active population
 
 ## Assumptions
 
 - Rise of Unemployment in Greece after Financial Crisis
 - Higher female employment for Greece, higher male for Germany
-- higher GDP, lower unemployment
+- Higher GDP, lower unemployment
 - No correlation between income inequality and unemployment          
 
 ## Organization
 
-#### Data (feel free to add the links to the datasets to be complete)
+#### Data
 - Eurostat tables: https://ec.europa.eu/eurostat/web/lfs/data/database 
 - GDP: https://data.oecd.org/gdp/gross-domestic-product-gdp.htm
-- Gini coefficient of equivalised disposable income - EU-SILC survey: https://ec.europa.eu/eurostat/web/income-and-living-conditions/data/database
+- Gini coefficient of equivalised disposable income 
+- EU-SILC survey: https://ec.europa.eu/eurostat/web/income-and-living-conditions/data/database
+Raw: `tsv` and `other_raw_data`
+Intermediate: `pickles`
+Final: `output`
+Explanation files: `translation_of_codes`
+
 
 #### Notebooks
 This folder contains all jupyter notebooks we worked on during the project, which include data cleaning and analysis:
