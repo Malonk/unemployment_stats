@@ -66,10 +66,10 @@ With the research question in mind, we are assuming various outcomes:
 - GDP: https://data.oecd.org/gdp/gross-domestic-product-gdp.htm
 - Gini coefficient of equivalised disposable income 
 - EU-SILC survey: https://ec.europa.eu/eurostat/web/income-and-living-conditions/data/database
-Raw: `tsv` and `other_raw_data`
-Intermediate: `pickles`
-Final: `output`
-Explanation files: `translation_of_codes`
+<br>Raw: `tsv` and `other_raw_data`
+<br>Intermediate: `pickles`
+<br>Final: `output`
+<br>Explanation files: `translation_of_codes`
 
 
 #### Notebooks
